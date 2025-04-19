@@ -3,4 +3,4 @@ This is a Demo for Git &amp; Github class.
 
 
 # Teacher
-gaurav dhamle
+gaurav dhamale
